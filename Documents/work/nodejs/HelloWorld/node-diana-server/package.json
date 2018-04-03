@@ -1,0 +1,22 @@
+{
+  "name": "accbal-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "helmet": "^3.12.0",
+    "mongoose": "^5.0.7",
+    "regex": "^0.1.1"
+  },
+  "description": ""
+}
